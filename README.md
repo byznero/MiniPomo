@@ -38,7 +38,3 @@ Bu projeyle birlikte:
 
 - **Beyza Neriman Öztürk**
 - [GitHub Profilim](https://github.com/byznero)
-
----
-
-> 🗒️ Not: Bu proje eğitim ve kişisel gelişim amaçlıdır. Dilersen proje üzerinde geliştirme yaparak farklı modlar (örneğin uzun molalar, ses seçenekleri) da ekleyebilirsin.
