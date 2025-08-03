@@ -13,7 +13,7 @@ Bu proje, odaklanma ve zaman yönetimini desteklemek amacıyla geliştirilen bas
 
 - HTML5
 - CSS3 (Responsive tasarım için medya sorguları)
-- Vanilla JavaScript (setInterval, DOM manipulation)
+- JavaScript (setInterval, DOM manipulation)
 - Audio API
 
 ## 📂 Dosya Açıklamaları
